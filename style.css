@@ -4,3 +4,8 @@ body {
   font-family: sans-serif;
 
 }
+.welcome-box {
+  background-color: #e0e0e0;
+  border-style: groove;  
+
+}
