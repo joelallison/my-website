@@ -5,12 +5,11 @@ body {
 
 }
 .welcome-box {
-  padding-top: 65px;
-  padding-bottom: 65px;
+  padding-top: 13px;
+  padding-bottom: 7px;
   text-align: center;
   background-color: #f7f7f7;
   border-style: groove;
   width: 500px;
   margin: 0 auto;
-
 }
