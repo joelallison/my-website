@@ -1,6 +1,6 @@
 body {
-  background-color: #ffffff;
-  color: #222222;
+  background-color: #F6F9F5;
+  color: #373837;
   font-family: sans-serif;
 
 }
@@ -8,7 +8,8 @@ body {
   padding-top: 13px;
   padding-bottom: 7px;
   text-align: center;
-  background-color: #f7f7f7;
+  background-color: #C2C4C1;
+  border-color: #444544;
   border-style: groove;
   width: 500px;
   margin: 0 auto;
