@@ -16,10 +16,11 @@ body {
   margin: 0 auto;
 }
 .header {
-  border-left: 5px solid #535453;
+  border-left: 6px solid #323332;
   text-align: left;
   font-weight: bold;
-  background-color: #323332;
+  background-color: #535453;
   color: #E3E5E2;
+  padding: 12px;
 
 }
