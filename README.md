@@ -1,3 +1,3 @@
-# school-websites
-My Repository for websites I've made at school.
-https://thatjoelallison.github.io/school-websites/
+# blank-website
+My blank canvas website.
+https://thatjoelallison.github.io/blank-website/
