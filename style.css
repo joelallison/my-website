@@ -16,6 +16,9 @@ body {
   margin: 0 auto;
 }
 .header {
+  border-left: 5px solid #535453;
+  text-align: left;
+  font-weight: bold;
   background-color: #323332;
   color: #E3E5E2;
 
