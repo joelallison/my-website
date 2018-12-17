@@ -5,6 +5,7 @@ body {
 
 }
 .welcome-box {
+  border-radius: 6px 6px 6px 6px;
   color: #373837;
   padding-top: 13px;
   padding-bottom: 7px;
