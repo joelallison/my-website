@@ -12,6 +12,7 @@ body {
   text-align: center;
   background-color: #C2C4C1;
   border-color: #444544;
+  border-width: 1px;
   border-style: groove;
   width: 500px;
   margin: 0 auto;
