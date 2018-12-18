@@ -15,7 +15,7 @@ body {
   border-width: 1px;
   border-style: groove;
   width: 500px;
-  margin: 0 auto;
+  margin: 2px auto;
 }
 .header {
   border-left: 6px solid #323332;
